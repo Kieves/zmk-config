@@ -9,6 +9,5 @@ manifest:
       remote: infused-kim
       revision: v2.5.0+zmk-fixes+kim-fixes
       clone-depth: 1
-      import: app/west.yml
   self:
     path: config
